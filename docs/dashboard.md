@@ -30,7 +30,7 @@ From [pypistats.org](https://pypistats.org/packages/archeus), mirrors excluded.
 
 | Last day | Last week | Last month |
 |---|---|---|
-| 6 | 43 | 1,152 |
+| 6 | 63 | 1,190 |
 
 ## Repository
 
@@ -40,7 +40,7 @@ From [pypistats.org](https://pypistats.org/packages/archeus), mirrors excluded.
 | Forks | 3 |
 | Open issues and pull requests | 1 |
 | First commit | 2026-06-11 |
-| Last push | 2026-09-30 |
+| Last push | 2026-10-05 |
 
 ## Codebase
 
@@ -50,9 +50,9 @@ From [pypistats.org](https://pypistats.org/packages/archeus), mirrors excluded.
 | Lines of Python | 88,592 |
 | Tests | 2,059 |
 | Documentation pages | 30 |
-| Commits | 306 |
-| Commits in the last 30 days | 152 |
+| Commits | 307 |
+| Commits in the last 30 days | 124 |
 
 Tests run on Windows, macOS and Linux across the supported Python versions on every push — see [CI](https://github.com/babarmuhammad/archeus/actions).
 
-*Generated 2026-10-05 11:35 UTC.*
+*Generated 2026-10-12 12:08 UTC.*
