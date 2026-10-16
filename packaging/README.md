@@ -35,7 +35,7 @@ minutes, so a check run straight afterwards reports the release missing.
 
 | | |
 |---|---|
-| PyPI `archeus` | **ours** — 2.7.0, published by CI on the tag (trusted publishing, `release.yml`) |
+| PyPI `archeus` | **ours** — 2.8.1, published by CI on the tag (trusted publishing, `release.yml`) |
 | PyPI, under the old name | **ours** — the shim at 1.9.2: no code, `archeus>=2.4.0`, published 2026-09-15. **Done, not pending** — see below |
 | npm `archeus` | **ours** — 2.7.0. It serves the previous version for a minute or so after a publish, as it always does; `npx archeus@2.7.0 --version` ran end to end once it caught up |
 | RubyGems `archeus` | **ours** — 2.7.0 |
